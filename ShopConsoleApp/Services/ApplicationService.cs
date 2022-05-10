@@ -57,7 +57,8 @@ namespace ShopConsoleApp.Services
 
             else if (command.StartsWith("Exit"))
             {
-                throw new Exception();
+                Environment.Exit(1);
+                
             }
 
             else
