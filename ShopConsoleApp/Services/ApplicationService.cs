@@ -26,6 +26,7 @@ namespace ShopConsoleApp.Services
                 {
                     Console.WriteLine("Inccorect command");
                 }
+
                 else
                 {
                     string[] splitCommand = command.Split(" ");
@@ -36,8 +37,8 @@ namespace ShopConsoleApp.Services
 
             else if (command.StartsWith("Remove"))
             {
-                string[] splitCmmand = command.Split(" ");
-                //_shopService.Remove(splitCommand[1]);
+                string[] splitCommand = command.Split(" ");
+                _shopService.Remove(splitCommand[1]);
             }
 
             else if (command.StartsWith("Show"))
