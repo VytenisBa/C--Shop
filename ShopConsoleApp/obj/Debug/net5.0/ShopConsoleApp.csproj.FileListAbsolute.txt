@@ -1,0 +1,16 @@
+C:\Users\Vartotojas\Documents\IVAIRUS\prvt\IT\Coding\C#\Shop\ShopConsoleApp\bin\Debug\net5.0\ShopConsoleApp.exe
+C:\Users\Vartotojas\Documents\IVAIRUS\prvt\IT\Coding\C#\Shop\ShopConsoleApp\bin\Debug\net5.0\ShopConsoleApp.deps.json
+C:\Users\Vartotojas\Documents\IVAIRUS\prvt\IT\Coding\C#\Shop\ShopConsoleApp\bin\Debug\net5.0\ShopConsoleApp.runtimeconfig.json
+C:\Users\Vartotojas\Documents\IVAIRUS\prvt\IT\Coding\C#\Shop\ShopConsoleApp\bin\Debug\net5.0\ShopConsoleApp.runtimeconfig.dev.json
+C:\Users\Vartotojas\Documents\IVAIRUS\prvt\IT\Coding\C#\Shop\ShopConsoleApp\bin\Debug\net5.0\ShopConsoleApp.dll
+C:\Users\Vartotojas\Documents\IVAIRUS\prvt\IT\Coding\C#\Shop\ShopConsoleApp\bin\Debug\net5.0\ShopConsoleApp.pdb
+C:\Users\Vartotojas\Documents\IVAIRUS\prvt\IT\Coding\C#\Shop\ShopConsoleApp\obj\Debug\net5.0\ShopConsoleApp.csproj.AssemblyReference.cache
+C:\Users\Vartotojas\Documents\IVAIRUS\prvt\IT\Coding\C#\Shop\ShopConsoleApp\obj\Debug\net5.0\ShopConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vartotojas\Documents\IVAIRUS\prvt\IT\Coding\C#\Shop\ShopConsoleApp\obj\Debug\net5.0\ShopConsoleApp.AssemblyInfoInputs.cache
+C:\Users\Vartotojas\Documents\IVAIRUS\prvt\IT\Coding\C#\Shop\ShopConsoleApp\obj\Debug\net5.0\ShopConsoleApp.AssemblyInfo.cs
+C:\Users\Vartotojas\Documents\IVAIRUS\prvt\IT\Coding\C#\Shop\ShopConsoleApp\obj\Debug\net5.0\ShopConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\Vartotojas\Documents\IVAIRUS\prvt\IT\Coding\C#\Shop\ShopConsoleApp\obj\Debug\net5.0\ShopConsoleApp.dll
+C:\Users\Vartotojas\Documents\IVAIRUS\prvt\IT\Coding\C#\Shop\ShopConsoleApp\obj\Debug\net5.0\refint\ShopConsoleApp.dll
+C:\Users\Vartotojas\Documents\IVAIRUS\prvt\IT\Coding\C#\Shop\ShopConsoleApp\obj\Debug\net5.0\ShopConsoleApp.pdb
+C:\Users\Vartotojas\Documents\IVAIRUS\prvt\IT\Coding\C#\Shop\ShopConsoleApp\obj\Debug\net5.0\ShopConsoleApp.genruntimeconfig.cache
+C:\Users\Vartotojas\Documents\IVAIRUS\prvt\IT\Coding\C#\Shop\ShopConsoleApp\obj\Debug\net5.0\ref\ShopConsoleApp.dll
