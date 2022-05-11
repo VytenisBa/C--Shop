@@ -25,6 +25,13 @@ namespace ShopConsoleApp.Services
                 Name = name,
                 Quantity = qty
             };
+            //c + p
+            //if(!_items.Any(x => x.Name == name))
+            //{
+            //    _items.Add(item);
+            //}
+           // else
+               // Console.WriteLine("Inccorect command");
             _items.Add(item);
         }
 
@@ -38,9 +45,11 @@ namespace ShopConsoleApp.Services
             return _items;
         }
 
-        public void Set()
+        //c+p
+        public void Set(string name, string qty)
         {
-
+            ShopItem firstShopItem = _items.First(i => i.Name == name);
+            firstShopItem.Quantity = qty;
         }
     }
 }
